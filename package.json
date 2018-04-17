@@ -1,0 +1,34 @@
+{
+  "name": "ng-scroll-position",
+  "version": "0.0.1-alpha.1",
+  "description": "Angular ScrollPosition Utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigTeamDotCo/ng-scroll-position.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript"
+  ],
+  "author": "Dewald Laubscher <laubscher.dewald@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BigTeamDotCo/ng-scroll-position/issues"
+  },
+  "homepage": "https://github.com/BigTeamDotCo/ng-scroll-position#readme",
+  "peerDependencies": {
+    "@angular/core": "^5.2.0",
+    "rxjs": "^5.5.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/core": "^5.2.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
